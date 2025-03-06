@@ -41,5 +41,5 @@ const Navbar = ({ toggleSidebar }) => {
     </header>
   );
 };
-
+ 
 export default Navbar;

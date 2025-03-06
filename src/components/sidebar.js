@@ -127,5 +127,5 @@ const Sidebar = ({ isOpen }) => {
     </aside>
   );
 };
-
+ 
 export default Sidebar;

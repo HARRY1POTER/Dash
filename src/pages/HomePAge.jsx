@@ -7,7 +7,7 @@ const HomePAge = () => {
   const [sidebarOpen, setSidebarOpen] = useState(true);
 
   const toggleSidebar = () => setSidebarOpen(!sidebarOpen);
-
+ 
   return (
     <div className="flex min-h-screen  bg-gray-100">
       <Sidebar isOpen={sidebarOpen} />

@@ -220,7 +220,7 @@ const Table = ({ sidebarOpen }) => {
                 </select>
               </div>
             </div>
-
+ 
             <div className="max-w-xs">
               <div className="flex items-center space-x-4">
                 <span className="font-medium">Status</span>
